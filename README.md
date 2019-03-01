@@ -21,4 +21,4 @@ The "Lock the device" option simulates a real life situation of using the finger
 
 [A demo can be view here.](https://youtu.be/jL4IZtGXxuE)
 
-![demo](https://img.youtube.com/vi/jL4IZtGXxuE/maxresdefault.jpg)
+[![demo](https://img.youtube.com/vi/jL4IZtGXxuE/maxresdefault.jpg)](https://youtu.be/jL4IZtGXxuE)
