@@ -7,8 +7,8 @@ The example below demonstrates the majority of the functions of the fingerprint 
 
 This sketch will run in an infinite loop, giving the user 4 options and continuously waiting for an input. The options are:  
 [1] Enrolling a new fingerprint  
-[2] Delete a fingerprint
-[3] View the number of fingerprints in the database
+[2] Delete a fingerprint  
+[3] View the number of fingerprints in the database  
 [4] Lock the device
 
 When enrolling a new fingerprint, the system will first ask for an index at which the fingerprint will be stored at. The range of this index is from 1 to 127. The system will then ask the user to put their finger on the scanner and remove after the scanner has finished reading, twice. If both images match, the fingerprint will be stored. Otherwise, the user will need to rescan their fingerprints.
