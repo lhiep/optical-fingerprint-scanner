@@ -19,4 +19,4 @@ Viewing the number of fingerprints in the database is exactly how it sounds. The
 
 The "Lock the device" option simulates a real life situation of using the fingerprint scanner to lock something. In this case, the lock is simulated by an LED on pin 5. When the device is locked, the LED will be on and the fingerprint scanner will continuously scanning new fingerprints. If any fingerprint matches with existing fingerprints in the database, the system will be unlocked and the LED will be turned on. The whole system will then reset to the initial state, displaying the 4 options listed above again.
 
-A demo can be view here.
+[A demo can be view here.](https://youtu.be/jL4IZtGXxuE)
